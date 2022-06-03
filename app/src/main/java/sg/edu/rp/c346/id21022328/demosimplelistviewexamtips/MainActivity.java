@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     ListView lvExamTips;
     String[] ExamTipsArray;
 
-
+//finished part 2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
